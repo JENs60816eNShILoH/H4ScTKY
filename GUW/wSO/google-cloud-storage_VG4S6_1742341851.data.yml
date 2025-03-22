@@ -16,7 +16,6 @@ ignore:
  - repo/blob/rclone/
  - repo/blob/webdav/
  # exclude generated code
- - internal/grpcapi/
  # exclude test-only packages
  - internal/fault/
  - internal/testutil/
