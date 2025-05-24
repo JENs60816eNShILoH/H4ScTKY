@@ -14,7 +14,6 @@
 *.jsx text
 *.ts text
 *.txt text
-*.tsx text
 *.md text
 *.html text
 *.gltf text
