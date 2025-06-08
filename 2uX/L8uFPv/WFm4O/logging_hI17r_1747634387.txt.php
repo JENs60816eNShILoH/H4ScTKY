@@ -42,7 +42,6 @@ return $config->setRules(array(
         'no_unused_imports' => true,
         'no_whitespace_in_blank_line' => true,
         'object_operator_without_whitespace' => true,
-        'phpdoc_align' => true,
         'phpdoc_indent' => true,
         'phpdoc_no_access' => true,
         'phpdoc_no_package' => true,
