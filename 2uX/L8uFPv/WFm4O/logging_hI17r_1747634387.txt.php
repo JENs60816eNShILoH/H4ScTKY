@@ -15,7 +15,6 @@ $finder = PhpCsFixer\Finder::create()
     ->exclude('Fixtures')
     ->in(__DIR__.'/src')
     ->in(__DIR__.'/tests')
-;
 
 $config = new PhpCsFixer\Config();
 return $config->setRules(array(
