@@ -1,6 +1,0 @@
-* text=auto
-
-*.py diff=python
-*.md diff=markdown
-
-*.svg -diff
